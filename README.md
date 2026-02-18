@@ -12,7 +12,7 @@ Never lose your context. Grid Browser automatically recovers your last session, 
 Simple by design. A single command handles the entire build process, letting you compile and run from source in seconds.
 
 ## Installation
-build script is only available for Linux (and NixOS) :
+build script is only available for Unix-based systems (and NixOS) :
 ```
 git clone https://github.com/xtremezero/Grid-Browser.git
 cd Grid-Browser
