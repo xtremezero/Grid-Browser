@@ -3,7 +3,7 @@
 
 ## Features
 - Smart Tiling: 
-Organize your workspace instantly. Grid Browser automatically tiles your tabs, giving you a comprehensive view of your projects at a glance.
+Organize your workspace instantly. Grid Browser automatically tiles your tabs, giving you a comprehensive view of your webpages at a glance.
 
 - Sticky Memory:
 Never lose your context. Grid Browser automatically recovers your last session, restoring your tabs and layout exactly as you left them.
